@@ -1,0 +1,23 @@
+body {
+  margin: 0; }
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+a {
+  padding: 15px 20px;
+  background: linear-gradient(180deg, #3dff70, #29bc4f);
+  border-radius: 5px;
+  border: 1px solid #51ba6c;
+  text-decoration: none;
+  color: black; }
+
+a:active {
+  background: linear-gradient(180deg, #409e59, #3dff70);
+  border: 1px solid lightgrey; }
+
+/*# sourceMappingURL=style.css.map */
